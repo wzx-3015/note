@@ -1,5 +1,12 @@
+<!--
+ * @Description: 请输入当前文件描述
+ * @Author: @Xin (834529118@qq.com)
+ * @Date: 2021-12-08 14:40:11
+ * @LastEditTime: 2021-12-11 09:34:10
+ * @LastEditors: @Xin (834529118@qq.com)
+-->
 # javascript  基础数据类型
-  ## 原始数据类型
+  ## 基本类型
   1. undefined
   2. Boolean
   3. Number
@@ -11,7 +18,7 @@
      > (ES6新增数据类型) 一种基本数据类型。 Symbol() 函数返回symbol剋行的值，每一个Symbol()返回的symbol值都是唯一的。
      Symbol('foo') === Symbol('foo') // false
   7. null
-  ## 引用数据类型 (变量之间的相互赋值，只是指针的交换，而非将数据复制一份给新的变量。)
+  ## 引用类型 (变量之间的相互赋值，只是指针的交换，而非将数据复制一份给新的变量。)
   1. Object
   2. Array
   3. Function
